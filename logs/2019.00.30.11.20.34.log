@@ -1,0 +1,23 @@
+11:20:34.130 Config: {
+	"UseFrontend": false,
+	"UseMatchmaker": false,
+	"UseHTTPS": false,
+	"UseAuthentication": false,
+	"LogToFile": true,
+	"HomepageFile": "player.htm",
+	"AdditionalRoutes": {}
+}
+11:20:34.245 Listening to proxy connections on: 8888
+11:20:34.246 Http listening on *: 8080
+11:44:39.463 proxy connected
+11:44:39.464 config to Proxy: {"peerConnectionConfig":{}}
+11:44:39.466 proxy connection end
+11:44:39.467 proxy connected
+11:44:39.467 config to Proxy: {"peerConnectionConfig":{}}
+11:44:39.467 proxy connection closed
+11:44:39.685 proxy connection end
+11:44:39.686 proxy connection closed
+11:44:39.687 proxy connected
+11:44:39.688 config to Proxy: {"peerConnectionConfig":{}}
+11:46:18.125 proxy connection end
+11:46:18.126 proxy connection closed

@@ -1,0 +1,11 @@
+14:40:01.628 Config: {
+	"UseFrontend": false,
+	"UseMatchmaker": false,
+	"UseHTTPS": false,
+	"UseAuthentication": false,
+	"LogToFile": true,
+	"HomepageFile": "player.htm",
+	"AdditionalRoutes": {}
+}
+14:40:01.783 Listening to proxy connections on: 8888
+14:40:01.783 Http listening on *: 8080

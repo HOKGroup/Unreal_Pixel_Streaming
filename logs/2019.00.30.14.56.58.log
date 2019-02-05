@@ -1,0 +1,182 @@
+14:56:58.336 Config: {
+	"UseFrontend": false,
+	"UseMatchmaker": false,
+	"UseHTTPS": false,
+	"UseAuthentication": false,
+	"LogToFile": true,
+	"HomepageFile": "player.htm",
+	"AdditionalRoutes": {}
+}
+14:56:58.459 Listening to proxy connections on: 8888
+14:56:58.460 Http listening on *: 8080
+14:57:09.726 proxy connected
+14:57:09.727 config to Proxy: {"peerConnectionConfig":{}}
+14:57:28.992 client 101 (::1) connected
+14:57:29.003 client 101: userConfig = {"emitData":"ArrayBuffer"}
+14:57:29.113 offer <- client 101
+14:57:29.114 ICE candidate <- client 101
+14:57:29.115 ICE candidate <- client 101
+14:57:29.115 ICE candidate <- client 101
+14:57:29.116 ICE candidate <- client 101
+14:57:29.116 ICE candidate <- client 101
+14:57:29.117 ICE candidate <- client 101
+14:57:29.152 answer -> client 101
+14:57:29.154 ICE candidate -> client 101
+14:57:29.155 ICE candidate -> client 101
+15:21:35.027 client 101 disconnected
+15:25:23.666 client 102 (::ffff:10.23.1.134) connected
+15:25:23.725 client 102: userConfig = {"emitData":"ArrayBuffer"}
+15:25:23.783 offer <- client 102
+15:25:56.377 proxy connection end
+15:25:56.379 proxy connection closed
+15:26:02.710 proxy connected
+15:26:02.711 config to Proxy: {"peerConnectionConfig":{}}
+15:26:10.074 client 103 (::ffff:10.23.1.134) connected
+15:26:10.100 client 103: userConfig = {"emitData":"ArrayBuffer"}
+15:26:10.233 offer <- client 103
+15:26:10.237 ICE candidate <- client 103
+15:26:10.240 ICE candidate <- client 103
+15:26:10.242 ICE candidate <- client 103
+15:27:46.340 proxy connection end
+15:27:46.343 proxy connection closed
+15:27:47.643 proxy connected
+15:27:47.644 config to Proxy: {"peerConnectionConfig":{}}
+15:28:32.016 client 104 (::ffff:10.23.1.134) connected
+15:28:32.067 client 104: userConfig = {"emitData":"ArrayBuffer"}
+15:28:32.145 offer <- client 104
+15:28:32.158 ICE candidate <- client 104
+15:28:32.159 ICE candidate <- client 104
+15:29:25.535 client 105 (::ffff:10.23.1.134) connected
+15:29:25.590 client 105: userConfig = {"emitData":"ArrayBuffer"}
+15:29:25.663 offer <- client 105
+15:29:28.231 client 106 (::ffff:10.23.1.134) connected
+15:29:28.247 client 106: userConfig = {"emitData":"ArrayBuffer"}
+15:29:28.289 offer <- client 106
+15:29:29.247 client 107 (::ffff:10.23.1.134) connected
+15:29:29.262 client 107: userConfig = {"emitData":"ArrayBuffer"}
+15:29:29.290 offer <- client 107
+15:29:30.119 client 108 (::ffff:10.23.1.134) connected
+15:29:30.151 client 108: userConfig = {"emitData":"ArrayBuffer"}
+15:29:30.285 offer <- client 108
+15:29:30.287 ICE candidate <- client 108
+15:29:30.288 ICE candidate <- client 108
+15:29:30.289 ICE candidate <- client 108
+15:30:56.461 client 109 (::ffff:10.23.1.134) connected
+15:30:56.498 client 109: userConfig = {"emitData":"ArrayBuffer"}
+15:30:56.585 offer <- client 109
+15:30:59.628 client 110 (::ffff:10.23.1.134) connected
+15:30:59.659 client 110: userConfig = {"emitData":"ArrayBuffer"}
+15:30:59.795 offer <- client 110
+15:30:59.797 ICE candidate <- client 110
+15:30:59.798 ICE candidate <- client 110
+15:30:59.799 ICE candidate <- client 110
+15:31:01.314 client 111 (::ffff:10.23.1.134) connected
+15:31:01.341 client 111: userConfig = {"emitData":"ArrayBuffer"}
+15:31:01.460 offer <- client 111
+15:31:01.461 ICE candidate <- client 111
+15:31:01.463 ICE candidate <- client 111
+15:31:01.464 ICE candidate <- client 111
+15:31:04.549 client 112 (::ffff:10.23.1.134) connected
+15:31:04.694 client 112: userConfig = {"emitData":"ArrayBuffer"}
+15:31:04.832 offer <- client 112
+15:31:04.833 ICE candidate <- client 112
+15:31:04.835 ICE candidate <- client 112
+15:31:04.837 ICE candidate <- client 112
+15:31:05.627 client 113 (::ffff:10.23.1.134) connected
+15:31:05.652 client 113: userConfig = {"emitData":"ArrayBuffer"}
+15:31:05.782 offer <- client 113
+15:31:05.784 ICE candidate <- client 113
+15:31:05.786 ICE candidate <- client 113
+15:31:05.787 ICE candidate <- client 113
+15:31:06.578 client 114 (::ffff:10.23.1.134) connected
+15:31:06.602 client 114: userConfig = {"emitData":"ArrayBuffer"}
+15:31:06.730 offer <- client 114
+15:31:06.734 ICE candidate <- client 114
+15:31:06.735 ICE candidate <- client 114
+15:31:06.737 ICE candidate <- client 114
+15:31:07.368 client 115 (::ffff:10.23.1.134) connected
+15:31:07.395 client 115: userConfig = {"emitData":"ArrayBuffer"}
+15:31:07.524 offer <- client 115
+15:31:07.526 ICE candidate <- client 115
+15:31:07.527 ICE candidate <- client 115
+15:31:07.527 ICE candidate <- client 115
+15:31:51.690 client 116 (::ffff:10.23.1.134) connected
+15:31:51.727 client 116: userConfig = {"emitData":"ArrayBuffer"}
+15:31:51.832 offer <- client 116
+15:32:10.150 client 117 (::1) connected
+15:32:10.159 client 117: userConfig = {"emitData":"ArrayBuffer"}
+15:32:10.191 offer <- client 117
+15:32:10.200 ICE candidate <- client 117
+15:32:10.202 ICE candidate <- client 117
+15:32:10.203 ICE candidate <- client 117
+15:32:10.204 ICE candidate <- client 117
+15:32:10.205 ICE candidate <- client 117
+15:32:10.205 ICE candidate <- client 117
+15:32:10.230 answer -> client 117
+15:32:10.232 ICE candidate -> client 117
+15:32:10.234 ICE candidate -> client 117
+15:32:38.967 client 117 disconnected
+15:32:45.054 client 118 (::ffff:10.23.1.134) connected
+15:32:45.074 client 118: userConfig = {"emitData":"ArrayBuffer"}
+15:32:45.130 offer <- client 118
+15:32:45.133 ICE candidate <- client 118
+15:32:45.134 ICE candidate <- client 118
+15:32:45.136 ICE candidate <- client 118
+15:33:24.189 client 119 (::1) connected
+15:33:24.198 client 119: userConfig = {"emitData":"ArrayBuffer"}
+15:33:24.227 offer <- client 119
+15:33:24.233 ICE candidate <- client 119
+15:33:24.236 ICE candidate <- client 119
+15:33:24.238 ICE candidate <- client 119
+15:33:24.239 ICE candidate <- client 119
+15:33:24.241 ICE candidate <- client 119
+15:33:24.242 ICE candidate <- client 119
+15:33:24.263 answer -> client 119
+15:33:24.266 ICE candidate -> client 119
+15:33:24.268 ICE candidate -> client 119
+15:34:13.775 client 120 (::ffff:10.23.1.134) connected
+15:34:13.801 client 120: userConfig = {"emitData":"ArrayBuffer"}
+15:34:13.937 offer <- client 120
+15:34:13.940 ICE candidate <- client 120
+15:34:13.941 ICE candidate <- client 120
+15:34:13.942 ICE candidate <- client 120
+15:37:01.428 client 121 (::ffff:10.23.1.134) connected
+15:37:01.477 client 121: userConfig = {"emitData":"ArrayBuffer"}
+15:37:01.639 offer <- client 121
+15:37:05.310 client 122 (::ffff:10.23.1.134) connected
+15:37:05.353 client 122: userConfig = {"emitData":"ArrayBuffer"}
+15:37:05.427 offer <- client 122
+15:37:08.303 client 123 (::ffff:10.23.1.134) connected
+15:37:08.347 client 123: userConfig = {"emitData":"ArrayBuffer"}
+15:37:08.416 offer <- client 123
+15:37:11.136 client 124 (::ffff:10.23.1.134) connected
+15:37:11.184 client 124: userConfig = {"emitData":"ArrayBuffer"}
+15:37:11.293 offer <- client 124
+15:37:12.834 client 125 (::ffff:10.23.1.134) connected
+15:37:12.871 client 125: userConfig = {"emitData":"ArrayBuffer"}
+15:37:12.940 offer <- client 125
+15:37:14.171 client 126 (::ffff:10.23.1.134) connected
+15:37:14.207 client 126: userConfig = {"emitData":"ArrayBuffer"}
+15:37:14.281 offer <- client 126
+15:37:15.523 client 127 (::ffff:10.23.1.134) connected
+15:37:15.556 client 127: userConfig = {"emitData":"ArrayBuffer"}
+15:37:15.637 offer <- client 127
+15:37:16.735 client 128 (::ffff:10.23.1.134) connected
+15:37:16.773 client 128: userConfig = {"emitData":"ArrayBuffer"}
+15:37:16.845 offer <- client 128
+15:37:37.946 client 119 disconnected
+15:37:47.407 client 129 (::1) connected
+15:37:47.414 client 129: userConfig = {"emitData":"ArrayBuffer"}
+15:37:47.448 offer <- client 129
+15:37:47.457 ICE candidate <- client 129
+15:37:47.458 ICE candidate <- client 129
+15:37:47.459 ICE candidate <- client 129
+15:37:47.460 ICE candidate <- client 129
+15:37:47.461 ICE candidate <- client 129
+15:37:47.462 ICE candidate <- client 129
+15:37:47.480 answer -> client 129
+15:37:47.482 ICE candidate -> client 129
+15:37:47.483 ICE candidate -> client 129
+15:38:14.947 proxy connection end
+15:38:14.951 client 129 disconnected
+15:38:14.952 proxy connection closed
